@@ -73,10 +73,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 ### Scala template
-*.class
-*.log
-
 .gitignore
 .idea/
 scala_samples.iml
-src/
